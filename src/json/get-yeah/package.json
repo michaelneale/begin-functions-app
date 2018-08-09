@@ -1,0 +1,7 @@
+{
+  "name": "shield-c4e-get-yeah",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "@begin-functions/data": "latest"
+  }
+}
