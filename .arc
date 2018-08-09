@@ -1,10 +1,8 @@
-#
-# Warning! Do Not Edit
-# --------------------
-# This is a generated file and will be overwritten
-#
 @app
-test-app
+shield-c4e
 
 @html
 get /
+
+@json
+get /yeah
