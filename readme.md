@@ -8,7 +8,7 @@
 - To lint your code: `npm run lint`
 - To run your tests: `npm t`
 
-
+ 
 ## Reference
 - [Quickstart](https://docs.begin.com/en/getting-started/quickstart/) - basics on working locally, project structure, deploying, and accessing your Begin app
 - [Creating new routes](https://docs.begin.com/en/routes-functions/creating-new-routes/) - basics on expanding the capabilities of your app
