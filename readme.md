@@ -1,6 +1,6 @@
 # Hey, it's a Begin app! ✨
 
-
+test
 ## Getting started
 - First, initialize the repo + route deps: `npm i && npx hydrate`
   - Note: as routes are changed, re-run `npx hydrate` as often as you like to update and (re)install all routes' node_modules
