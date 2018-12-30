@@ -1,5 +1,6 @@
 # Hey, it's a Begin app! ✨
 
+check it out!
 
 ## Getting started
 - First, initialize the repo + route deps: `npm i && npx hydrate`
