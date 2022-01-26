@@ -1,5 +1,7 @@
 # Hey, it's a Begin app! ✨
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/432181d6-d10d-4f74-abbd-fae0c42cc2d3.svg?orgId=451115019187)](https://app.soluble.cloud/repos/details/github.com/michaelneale/begin-functions-app?orgId=451115019187)  
+
 
 ## Getting started
 - First, initialize the repo + route deps: `npm i && npx hydrate`
